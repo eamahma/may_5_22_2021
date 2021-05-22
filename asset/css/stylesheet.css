@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header, footer {
+    background-color: rgb(1, 95, 1);
+    color: #ffffff;
+    font-weight: 600;
+}
+
+footer {
+    text-align: center;
+    bottom: 0px;
+}
+
+header {
+    text-align: right;
+}
+
+#topSection {
+    text-align: center;
+    font-weight: 800;
+    color: brown;
+    background-color: beige;
+}
+
+#bottomSection {
+    text-align: center;
+    font-weight: 600;
+    color: brown;
+    background-color: rgb(128, 128, 114);
+}
+
+#addInformation {
+    margin: auto;
+    font-weight: 400;
+    line-height: 0.8em;
+}
+
+#buttonSend {
+    color: white;
+    background-color: brown;
+    padding: 1em;
+}
