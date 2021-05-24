@@ -48,7 +48,8 @@ a {
 }
 
 form {
-    margin: 1% 35% 1% 35%;
+    width: 15%;
+    margin: 1% auto 1% auto;
     padding: .5em;
     border: 3px solid rgb(168, 136, 136);
     border-radius: 20px;
